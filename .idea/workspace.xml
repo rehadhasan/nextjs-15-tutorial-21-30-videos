@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1e052e-186b-4eeb-b095-3dff061d6b48" name="Changes" comment="" />
+    <list default="true" id="1e1e052e-186b-4eeb-b095-3dff061d6b48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/archived/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@notifications/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@revenue/default.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@revenue/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@users/default.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/@users/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/default.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/complex-dashboard/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/error-wrapper.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/global-error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +66,9 @@
       <recent name="E:\Nextjs 15 Tutorial Playlist\21-30 videos\src\app\products\[productId]\reviews\[reviewId]" />
       <recent name="E:\Nextjs 15 Tutorial Playlist\21-30 videos\src\app\(auth)" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Nextjs 15 Tutorial Playlist\21-30 videos\src\app" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -70,6 +89,10 @@
       <workItem from="1737833959893" duration="6000" />
       <workItem from="1738099250602" duration="2490000" />
       <workItem from="1738363694515" duration="317000" />
+      <workItem from="1738451819320" duration="984000" />
+      <workItem from="1738452948514" duration="2881000" />
+      <workItem from="1738457460756" duration="52000" />
+      <workItem from="1739148183333" duration="3549000" />
     </task>
     <servers />
   </component>
